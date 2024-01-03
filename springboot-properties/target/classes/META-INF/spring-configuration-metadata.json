@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.mohai.one.springbootproperties.bean.UserBean",
+      "sourceType": "com.mohai.one.springbootproperties.bean.UserBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mohai.one.springbootproperties.bean.UserBean"
+    },
+    {
+      "name": "user.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.mohai.one.springbootproperties.bean.UserBean"
+    },
+    {
+      "name": "user.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mohai.one.springbootproperties.bean.UserBean"
+    },
+    {
+      "name": "user.real-name",
+      "type": "java.lang.String",
+      "sourceType": "com.mohai.one.springbootproperties.bean.UserBean"
+    }
+  ],
+  "hints": []
+}
