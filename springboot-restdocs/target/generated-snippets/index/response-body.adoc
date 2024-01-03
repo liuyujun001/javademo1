@@ -1,0 +1,9 @@
+[source,options="nowrap"]
+----
+{
+  "_links" : {
+    "self" : "http://localhost:8080/",
+    "users" : "http://localhost:8080/users"
+  }
+}
+----

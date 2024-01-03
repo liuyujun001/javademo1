@@ -1,0 +1,10 @@
+|===
+|Relation|Description
+
+|`+self+`
+|当前资源的链接
+
+|`+users+`
+|指向所有用户资源的链接
+
+|===

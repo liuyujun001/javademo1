@@ -1,0 +1,19 @@
+|===
+|Path|Type|Description|Constraints
+
+|`+id+`
+|`+Number+`
+|用户ID
+|[Must not be blank]
+
+|`+username+`
+|`+String+`
+|用户名
+|[Must not be null]
+
+|`+email+`
+|`+String+`
+|Email 地址
+|[Must be a well-formed email address, Must not be empty, Must not be null]
+
+|===

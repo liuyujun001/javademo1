@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+GET /users HTTP/1.1
+Accept: application/json
+X-Sample: Test HTTP Header
+Host: localhost:8080
+
+----

@@ -1,0 +1,8 @@
+|===
+|Path|Type|Description
+
+|`+_links+`
+|`+Object+`
+|到其他资源的链接
+
+|===

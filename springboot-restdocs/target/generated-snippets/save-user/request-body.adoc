@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"phone":"655888","id":2,"email":"test@example.com","username":"test"}
+----

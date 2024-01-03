@@ -1,0 +1,13 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 110
+
+{
+  "_links" : {
+    "self" : "http://localhost:8080/",
+    "users" : "http://localhost:8080/users"
+  }
+}
+----

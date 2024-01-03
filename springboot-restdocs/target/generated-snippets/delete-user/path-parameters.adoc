@@ -1,0 +1,8 @@
+.+/user/{id}+
+|===
+|Parameter|Description
+
+|`+id+`
+|用户ID
+
+|===

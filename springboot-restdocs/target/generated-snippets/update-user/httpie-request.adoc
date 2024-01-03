@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"id":2,"email":"jack@example.com","username":"jack"}' | http PUT 'http://localhost:8080/user' \
+    'Content-Type:application/json'
+----

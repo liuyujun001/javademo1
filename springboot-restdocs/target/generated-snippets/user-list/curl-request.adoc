@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/users' -i -X GET \
+    -H 'Accept: application/json' \
+    -H 'X-Sample: Test HTTP Header'
+----
